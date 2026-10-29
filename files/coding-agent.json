@@ -1,0 +1,7 @@
+{
+  "serverMode": "self-hosted",
+  "apiUrl": "http://127.0.0.1:8888",
+  "mapPathToBank": {
+    "/Users/<you>/Library/Application Support/Claude/scratch-workspaces": "coding-agent::scratch"
+  }
+}
